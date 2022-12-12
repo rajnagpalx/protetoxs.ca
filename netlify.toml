@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?affiliate=527914&vendor=protetox&tid=organic"
+status = 301
+force = true
